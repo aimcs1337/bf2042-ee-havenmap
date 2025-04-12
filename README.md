@@ -2,7 +2,7 @@
 This repository provides a simple online Leaflet map for Battlefield 2042, specificially "Haven".
 It is only intended and configured for the use of research on the latest known clues of the Phantom Program Easter Egg.
 
-For news, help, troubleshooting and contribution, please refer to the official Battlefield Easter Egg Community Discord ([discord.gg/bfee](discord.gg/bfee)).
+For news, help, troubleshooting and contribution, please refer to the official Battlefield Easter Egg Community Discord ([discord.gg/bfee](https://discord.gg/bfee)).
 > Disclaimer: This repository is intended for research and educational purposes only. It is not affiliated with, endorsed by, or supported by EA or DICE. Use of this content must comply with Battlefield's terms of service and community guidelines.
 
 ## 📦 Installation
